@@ -1,0 +1,6 @@
+__pycache__
+*.pem
+*.pyc
+*.session
+*.session-journal
+credentials.txt
